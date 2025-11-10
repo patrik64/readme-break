@@ -9,8 +9,3 @@ here below is a link to a photo on wikipedia
 
 - html img tiger:
 <img src="./images/tiger.jpg" alt="TIGER">
-
-- html picture+img tiger:
-<picture>
-  <img src="./images/tiger.jpg" alt="TIGER">
-</picture>
