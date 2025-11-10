@@ -6,6 +6,3 @@ here below is a link to a photo on wikipedia
 
 - local image tiger!!
 ![tiger](./images/tiger.jpg)
-
-- html img tiger:
-<img src="./images/tiger.jpg" alt="TIGER">
